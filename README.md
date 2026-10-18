@@ -1,2 +1,2 @@
 # diabetes_pred_ml
-Diabetes classification using different classifiers 
+Diabetes classification using different classifiers(educational project)
